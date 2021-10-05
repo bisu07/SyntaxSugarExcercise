@@ -1,0 +1,14 @@
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\bin\Debug\netcoreapp3.1\SugarSyntaxExcercise.exe
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\bin\Debug\netcoreapp3.1\SugarSyntaxExcercise.deps.json
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\bin\Debug\netcoreapp3.1\SugarSyntaxExcercise.runtimeconfig.json
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\bin\Debug\netcoreapp3.1\SugarSyntaxExcercise.runtimeconfig.dev.json
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\bin\Debug\netcoreapp3.1\SugarSyntaxExcercise.dll
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\bin\Debug\netcoreapp3.1\SugarSyntaxExcercise.pdb
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\obj\Debug\netcoreapp3.1\SugarSyntaxExcercise.csproj.AssemblyReference.cache
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\obj\Debug\netcoreapp3.1\SugarSyntaxExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\obj\Debug\netcoreapp3.1\SugarSyntaxExcercise.AssemblyInfoInputs.cache
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\obj\Debug\netcoreapp3.1\SugarSyntaxExcercise.AssemblyInfo.cs
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\obj\Debug\netcoreapp3.1\SugarSyntaxExcercise.csproj.CoreCompileInputs.cache
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\obj\Debug\netcoreapp3.1\SugarSyntaxExcercise.dll
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\obj\Debug\netcoreapp3.1\SugarSyntaxExcercise.pdb
+C:\Users\bishal\Desktop\repos\SugarSyntaxExcercise\SugarSyntaxExcercise\obj\Debug\netcoreapp3.1\SugarSyntaxExcercise.genruntimeconfig.cache
